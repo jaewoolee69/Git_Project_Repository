@@ -7,7 +7,7 @@ void main() {
 
 	printf("LLLL");
 
-	printf("MMMM");
+	printf("MMMM");  
 
 
 }
