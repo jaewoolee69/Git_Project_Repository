@@ -5,6 +5,6 @@ void main() {
 
 	printf("KKKKK");
 
-
+	printf("LLLL");
 
 }
